@@ -1,0 +1,10 @@
+os
+viapi
+oss2
+time
+cv2
+aliyunsdkcore
+smtplib
+email
+aliyunsdkfacebody
+json
